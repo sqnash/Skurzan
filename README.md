@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Skurzan
+- 👋 Hi, I'm Jakub Skurzanko. I'm 22-years-old IT student at Vistula University. I've love coding since high school. I started with html, css, php and javascript (but really basic level) 
 - 👀 I’m interested in automotive and video games
-- 🌱 I’m currently learning C#
-
-<!---
-Skurzan/Skurzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning C# and Python
